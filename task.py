@@ -1,6 +1,7 @@
 shopp_list = {
     "piekarnia" : ["chleb", "pączek", "bułki"],
     "warzywniak" : ["marchew", "seler", "rukola"]
+    "mięsny" : ["kurczak", "wołowina", "kabanosy"]
 }
 print("Lista zakupów") 
 sum_produkt = 0
