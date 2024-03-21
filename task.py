@@ -11,3 +11,5 @@ for sklep, produkty in shopp_list.items():
     print(f"Idę do {sklep1}, kupuję tu następujące rzeczy: {', '.join(produkty1)}.")
     sum_produkt += len(produkty1) 
 print(f"W sumię kupię {sum_produkt} produktów.")
+
+print("Pozdrawiam")
